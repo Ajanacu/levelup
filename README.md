@@ -257,9 +257,8 @@ Dashboard tracks full progress toward dream role
 
 ## Team Contributions
 
-* [Name 1]: Project ideation, frontend pages, UI/UX decisions
-* [Name 2]: API routes, quiz logic, resume analysis system
-* [Name 3]: Dashboard, skill tree component, testing and deployment
+* Ajana C U: Project ideation, frontend pages, UI/UX decisions, testing and deployment
+* Anagha T U: API routes, quiz logic, resume analysis system, Dashboard, skill tree component
 
 ---
 
