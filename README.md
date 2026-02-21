@@ -2,7 +2,7 @@
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name: SheSpark
 
 ### Team Members
 
@@ -11,7 +11,7 @@
 
 ### Hosted Project Link
 
-[mention your project hosted link here]
+level-ea7hxo67z-ajanacus-projects.vercel.app
 
 ### Project Description
 
