@@ -11,7 +11,7 @@
 
 ### Hosted Project Link
 
-level-ea7hxo67z-ajanacus-projects.vercel.app
+https://level-up-ashy-two.vercel.app/
 
 ### Project Description
 
