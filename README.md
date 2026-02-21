@@ -83,18 +83,18 @@ Then open **http://localhost:3000** in your browser.
 ### For Software:
 
 #### Screenshots (Add at least 3)
+<img width="1917" height="906" alt="Screenshot 2026-02-21 063011" src="https://github.com/user-attachments/assets/893344ce-6285-4639-9e91-364c88f10904" />
 
-![Screenshot1](Add screenshot of Landing Page here)
-*Landing page with typewriter animation and cyberpunk dark theme*
 
-![Screenshot2](Add screenshot of Dashboard here)
-*Skill tree dashboard showing locked/unlocked levels, XP bar, and badges*
+<img width="1904" height="911" alt="Screenshot 2026-02-21 073107" src="https://github.com/user-attachments/assets/4e2218ee-13b5-490b-ba9e-ad1b33721c81" />
 
-![Screenshot3](Add screenshot of Quiz page here)
-*Timed quiz interface with A/B/C/D options and live countdown timer*
 
-![Screenshot4](Add screenshot of Mock Interview here)
-*Level 5 milestone — Mock interview with AI feedback on each answer*
+<img width="1911" height="891" alt="Screenshot 2026-02-21 073155" src="https://github.com/user-attachments/assets/ea930372-024b-418f-8968-1db38be37633" />
+
+
+<img width="1910" height="895" alt="Screenshot 2026-02-21 073244" src="https://github.com/user-attachments/assets/7445bfda-0380-49a1-87b9-dbb5ef73000a" />
+
+<img width="1899" height="897" alt="Screenshot 2026-02-21 073303" src="https://github.com/user-attachments/assets/bba2b394-ab3d-4a9e-992e-8ccb0db03b08" />
 
 #### Diagrams
 
